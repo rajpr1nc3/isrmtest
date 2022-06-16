@@ -1,0 +1,13 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: "SMP_PAAS_Documentation"
+  description: "BCG's Own Cloud Native Platform"
+  annotations:
+    github.com/project-slug: smp/smp-paas
+    backstage.io/techdocs-ref: dir:.
+    company.com/techdocs-builder: local
+spec:
+  type: documentation
+  lifecycle: production
+  owner: "smp-paas"
