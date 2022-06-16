@@ -4,7 +4,7 @@ metadata:
   name: "SMP_PAAS_Documentation"
   description: "BCG's Own Cloud Native Platform"
   annotations:
-    github.com/project-slug: smp/smp-paas
+    github.com/project-slug: rajpr1nc3/isrmtest
     backstage.io/techdocs-ref: dir:.
     company.com/techdocs-builder: local
 spec:
